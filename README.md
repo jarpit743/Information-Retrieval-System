@@ -31,7 +31,7 @@ Retrieval of top-N most relevant documents for a given query.
 ## Installation
 Clone the repository:
 <p>git clone: </p>
-<a href="https://github.com/ElishBaraiya/information-retrieval-system.git">https://github.com/ElishBaraiya/information-retrieval-system.git</a>
+<a href="https://github.com/jarpit743/Information-Retrieval-System">https://github.com/jarpit743/Information-Retrieval-System</a>
 <p>cd information-retrieval-system</p>
 
 ## Dataset
