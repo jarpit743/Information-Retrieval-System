@@ -35,7 +35,7 @@ Clone the repository:
 <p>cd information-retrieval-system</p>
 
 ## Dataset
-A small corpus of 1 400 scientific abstracts and 225 queries. It is considered among the first Information Retrieval initiatives to perform IR tasks in the 1960s.
+A small corpus of 1400 scientific abstracts and 225 queries. It is considered among the first Information Retrieval initiatives to perform IR tasks in the 1960s.
 
 Tag definitions:
 - **docno:** Document unique number (identifier)
